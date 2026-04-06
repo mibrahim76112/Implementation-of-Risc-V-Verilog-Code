@@ -3,7 +3,6 @@
 A Verilog implementation of a **RISC-V processor datapath and control unit**.
 This project demonstrates the core building blocks of a simple RISC-V CPU, including instruction decoding, arithmetic and logic operations, register file access, memory interaction, branching, and a testbench for simulation.
 
-It is a strong academic project for understanding how a processor is built from modular hardware components in **Verilog HDL**.
 
 ---
 
